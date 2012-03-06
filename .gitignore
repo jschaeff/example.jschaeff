@@ -1,0 +1,11 @@
+*.egg
+*.egg-info
+bin
+build
+develop-eggs
+downloads
+eggs
+fake-eggs
+parts
+dist
+.installed.cfg
