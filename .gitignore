@@ -9,3 +9,6 @@ fake-eggs
 parts
 dist
 .installed.cfg
+*.mo
+*.pyc
+
